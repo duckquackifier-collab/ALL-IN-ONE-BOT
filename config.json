@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTQzNzEyNzMyNTQwOTA4NzY5OQ.GT7GCA.oLosRVTkGM2FvKqxDjSXLnB9vcD0v4Cq_5JwiM",
     "language": "en",
-    "prefix": "!",
-    "mongodbUri": "",
+    "prefix": "/",
+    "mongodbUri": "mongodb+srv://sestro:sestro@cluster0.zldd64l.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "other": true,
         "hentai": true,
